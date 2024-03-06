@@ -1,0 +1,15 @@
+{
+  "name": "eauction-backend",
+  "version": "1.0.0",
+  "description": "eauction backend",
+  "main": "index.js",
+  "repository": "git@shubham:Subham-Kedia/eauction-backend.git",
+  "author": "<shubham.kedia@vegrow.in>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
